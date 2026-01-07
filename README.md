@@ -14,7 +14,7 @@
 
   <p>
     <a href="https://github.com/Alparijiii" style="text-decoration: none;">GitHub</a> &nbsp;•&nbsp;
-    <a href="https://linkedin.com/in/MuhammadFikriAlfarizi" style="text-decoration: none;">LinkedIn</a> &nbsp;•&nbsp;
+    <a href="www.linkedin.com/in/muhammad-fikri-alfarizi-b43bb12aa" style="text-decoration: none;">LinkedIn</a> &nbsp;•&nbsp;
     <a href="https://instagram.com/_alparijiii" style="text-decoration: none;">Instagram</a> &nbsp;•&nbsp;
     <a href="mailto:fikrialfarizi248@gmail.com" style="text-decoration: none;">Email</a>
   </p>
