@@ -1,46 +1,67 @@
-## Hi, I'm Alparijii
+<div align="center">
 
-I believe consistency matters more than intensity.  
-I build web and mobile applications step by step, focusing on solid fundamentals rather than chasing trends.
+  <h1>Alparijii</h1>
 
-### About
-I'm a junior–mid level **Fullstack Web & Mobile App Developer**.  
-My main focus is stabilizing core skills, writing maintainable code, and building practical products that actually get used.
+  <p>
+    <strong>Fullstack Web & Mobile Developer</strong>
+  </p>
 
-### Tech Stack
-**Languages**
-- JavaScript, TypeScript, PHP, R
+  <p>
+    <em>"Consistency matters more than intensity."</em>
+  </p>
 
-**Web**
-- Node.js, Express.js
-- Next.js, React
-- Laravel
+  <br />
 
-**Mobile**
-- React Native, Expo
-- Flutter
+  <p>
+    <a href="https://github.com/Alparijiii" style="text-decoration: none;">GitHub</a> &nbsp;•&nbsp;
+    <a href="https://linkedin.com/in/MuhammadFikriAlfarizi" style="text-decoration: none;">LinkedIn</a> &nbsp;•&nbsp;
+    <a href="https://instagram.com/_alparijiii" style="text-decoration: none;">Instagram</a> &nbsp;•&nbsp;
+    <a href="mailto:fikrialfarizi248@gmail.com" style="text-decoration: none;">Email</a>
+  </p>
 
-**Database & Backend Services**
-- PostgreSQL
-- Supabase
-- MySQL
+</div>
 
-### Featured Projects
-- **Rumah Trubus**  
-  Fullstack e-catalog web application built with Next.js, developed for a real small business use case.  
-  https://github.com/Alparijiii/Rumah-Trubus
+<br />
+<br />
 
-- **FoodS**  
-  Mobile application focused on food expiry tracking and alerts, built with Express.js backend and React Native frontend.  
-  https://github.com/Alparijiii/FoodS
+### The Philosophy
 
-### Currently
-Stabilizing core skills across web and mobile development, with emphasis on clean architecture, consistency, and long-term maintainability.
+> I don't just write code; I build **systems**. My focus is on stabilizing core fundamentals, writing predictable logic, and prioritizing long-term maintainability over fleeting trends.
 
-### Connect
-- GitHub: https://github.com/Alparijiii  
-- Portfolio: (add your portfolio URL here)  
-- LinkedIn: (add your LinkedIn URL here)  
-- Email: (add your email here)
+<br />
 
-Consistency over shortcuts.
+### Technical Architecture
+
+| Category | Tech Stack |
+| :--- | :--- |
+| **Languages** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) |
+| **Web** | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) |
+| **Mobile** | ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black) ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) |
+| **Database** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+
+<br />
+
+### Selected Works
+
+#### 01. Rumah Trubus
+**Fullstack E-Catalog** • *Next.js / Supabase*
+<br />
+Developed for a real-world SME to digitalize their product catalog. Engineered for SEO performance and ease of inventory management.
+<br />
+[View Repository ↗](https://github.com/Alparijiii/Rumah-Trubus)
+
+<br />
+
+#### 02. FoodS
+**Expiry Tracking System** • *React Native / Express.js*
+<br />
+A mobile solution to minimize food waste through real-time expiration tracking. Focuses on complex state management and background alerts.
+<br />
+[View Repository ↗](https://github.com/Alparijiii/FoodS)
+
+<br />
+<br />
+
+<div align="center">
+  <sub>&copy; 2024 Alparijii • Consistency over shortcuts.</sub>
+</div>
