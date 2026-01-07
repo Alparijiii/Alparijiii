@@ -3,7 +3,7 @@
   <h1>Alparijii</h1>
 
   <p>
-    <strong>Fullstack Web & Mobile Developer</strong>
+    <strong>Full-Stack Web & Mobile Developer</strong>
   </p>
 
   <p>
@@ -14,7 +14,7 @@
 
   <p>
     <a href="https://github.com/Alparijiii" style="text-decoration: none;">GitHub</a> &nbsp;•&nbsp;
-    <a href="www.linkedin.com/in/muhammad-fikri-alfarizi-b43bb12aa" style="text-decoration: none;">LinkedIn</a> &nbsp;•&nbsp;
+    <a href="in/muhammad-fikri-alfarizi-b43bb12aa" style="text-decoration: none;">LinkedIn</a> &nbsp;•&nbsp;
     <a href="https://instagram.com/_alparijiii" style="text-decoration: none;">Instagram</a> &nbsp;•&nbsp;
     <a href="mailto:fikrialfarizi248@gmail.com" style="text-decoration: none;">Email</a>
   </p>
