@@ -11,12 +11,12 @@
   </p>
 
   <br />
-
+  
   <p>
-    <a href="https://github.com/Alparijiii" style="text-decoration: none;">GitHub</a> &nbsp;•&nbsp;
-    <a href="in/muhammad-fikri-alfarizi-b43bb12aa" style="text-decoration: none;">LinkedIn</a> &nbsp;•&nbsp;
-    <a href="https://instagram.com/_alparijiii" style="text-decoration: none;">Instagram</a> &nbsp;•&nbsp;
-    <a href="mailto:fikrialfarizi248@gmail.com" style="text-decoration: none;">Email</a>
+    <a href="https://github.com/Alparijiii"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="25" style="vertical-align:middle"></a>&nbsp;
+    <a href="https://www.linkedin.com/in/muhammad-fikri-alfarizi-/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="25" style="vertical-align:middle"></a>&nbsp;
+    <a href="https://instagram.com/_alparijiii"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="25" style="vertical-align:middle"></a>&nbsp;
+    <a href="mailto:fikrialfarizi248@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="25" style="vertical-align:middle"></a>
   </p>
 
 </div>
@@ -53,7 +53,7 @@ Developed for a real-world SME to digitalize their product catalog. Engineered f
 <br />
 
 #### 02. FoodS
-**Expiry Tracking System** • *React Native / Express.js*
+**Expiry Tracking System** • *Express.js / React Native / PostgreSQL*
 <br />
 A mobile solution to minimize food waste through real-time expiration tracking. Focuses on complex state management and background alerts.
 <br />
